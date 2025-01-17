@@ -8,6 +8,8 @@ For the given task I have:
 4.Plotted a horizontal bar chart to show the top 5 countries with the largest population in 2022
 5. Plotted a line chart of the population growth rate for individual countries to identify trends.
 6.Plotted a world map to visualize the top 10 countries with the largest land area by importing geopandas
+![image](https://github.com/user-attachments/assets/96e13c23-aae6-452f-916e-35cc111f0b67)
+
 
 TASK 2 DESCRIPTION: To perform data cleaning and eda on a dataset. Explore relationships between variables and identify patterns and trends in data
 
