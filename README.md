@@ -42,3 +42,4 @@ For the given task I have:
 Examined the relationships between accident severity, road conditions, weather, and time of day.
 3.Generated graphs and charts to show the influence of road conditions, weather, and time of day on accident frequency and severity.
 4. Determined whether specific road conditions (e.g., wet roads), weather conditions (e.g., rain or snow), or times of the day are associated with higher accident rates.
+![image](https://github.com/user-attachments/assets/adfc4b80-b2f4-46be-9403-ac4ac58ac409)
