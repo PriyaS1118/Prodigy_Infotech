@@ -1,4 +1,4 @@
-# Prodigy_Infotech
+# Compozent
 TASK 1 DESCRIPTION: To create a bar charts or histogram to visualise the distribution of categorical or continuous variable.
 
 For the given task I have:
