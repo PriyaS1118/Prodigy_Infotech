@@ -31,6 +31,8 @@ For the given task I have:
 4. Grouped the data by time intervals (e.g., hourly, daily) to analyze sentiment trends over time.Created line charts and heatmaps to visualize how sentiment evolves in response to specific events or periods.
 5. Generated word clouds to visually display frequently occurring words or phrases associated with positive and negative sentiments.
 6. Interpreted the sentiment patterns in the context of real-world events and trends.
+![image](https://github.com/user-attachments/assets/499e1895-a7f7-4b7b-a6d1-7b965f9395d9)
+
 
 TASK 4 DESCRIPTION: Analyse traffic accident data to identify patterns related to road conditions, weather, and time of the day. Visualize accident hotspots and contribute factors.
 
