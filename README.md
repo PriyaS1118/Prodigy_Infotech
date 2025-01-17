@@ -20,3 +20,23 @@ Loaded the Titanic dataset using Pandas
 3. Utilised Seaborn and Matplotlib to create visually informative plots:
 Histograms and box plots for numerical variables.
 Bar plots and count plots for categorical variables, heat-maps for correlation analysis.
+![image](https://github.com/user-attachments/assets/860cbdc5-410a-41a4-8e38-51c9617eeaa0)
+
+TASK 3 DESCRIPTION: Analyse and Visualize sentiment patterns in social media to understand public opinion and attitude towards specific barnds or topics
+
+For the given task I have:
+1.Utilised the Kaggle platform to access publicly available Twitter datasets related to the chosen brands or topics.
+2.Extracted relevant attributes such as tweet text, timestamp, user details, and engagement metrics.
+3.Assigned sentiment labels (positive, negative, neutral, irrelevant) to each tweet based on sentiment scores.
+4. Grouped the data by time intervals (e.g., hourly, daily) to analyze sentiment trends over time.Created line charts and heatmaps to visualize how sentiment evolves in response to specific events or periods.
+5. Generated word clouds to visually display frequently occurring words or phrases associated with positive and negative sentiments.
+6. Interpreted the sentiment patterns in the context of real-world events and trends.
+
+TASK 4 DESCRIPTION: Analyse traffic accident data to identify patterns related to road conditions, weather, and time of the day. Visualize accident hotspots and contribute factors.
+
+For the given task I have:
+1.Collected and preprocessed traffic accident data from Kaggle datasets, including information on road conditions, weather, time of day, and accident locations.
+2.Explored the dataset to gain insights into the distribution of accidents over time.
+Examined the relationships between accident severity, road conditions, weather, and time of day.
+3.Generated graphs and charts to show the influence of road conditions, weather, and time of day on accident frequency and severity.
+4. Determined whether specific road conditions (e.g., wet roads), weather conditions (e.g., rain or snow), or times of the day are associated with higher accident rates.
